@@ -3,7 +3,7 @@ from fastapi import FastAPI
 from routers import countries
 
 app = FastAPI(
-    version="0.1",
+    version="0.2",
     title="CodeTask",
     description="data collector"
 )
