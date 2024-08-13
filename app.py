@@ -9,7 +9,7 @@ from starlette.status import HTTP_408_REQUEST_TIMEOUT
 REQUEST_TIMEOUT_ERROR = 3  # Threshold
 
 app = FastAPI(
-    version="0.2",
+    version="0.3",
     title="CodeTask",
     description="data collector"
 )

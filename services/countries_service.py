@@ -1,4 +1,5 @@
 import requests
+from utils.constans import region_list, sub_region_list
 from utils.countries import (get_countries_with_neighbours, get_biggest_countries_in_region, return_data_file,
                              add_total_subregion_population)
 from fastapi import HTTPException
@@ -14,7 +15,7 @@ def get_region_biggest_countries(region: str, response_format: str):
     :param response_format:
     :return:
     """
-    if response_format in ["csv", "json"]:
+    if region in region_list:
         all_region_countries = requests.get(f"{BASE_URL}/region/{region}?fields="
                                             f"name,capital,region,subregion,population,area,borders")
         all_region_countries_json = all_region_countries.json()
@@ -22,7 +23,8 @@ def get_region_biggest_countries(region: str, response_format: str):
                                                                  how_many_countries=10)
         return return_data_file(biggest_countries_json, temp_format=response_format)
     else:
-        raise HTTPException(status_code=400, detail=f"Unsupported format {response_format}. Please use csv or json")
+        raise HTTPException(status_code=400, detail=f"Region {region} doesn't exist. "
+                                                    f"Please use region from list {region_list}")
 
 
 def get_subregion_countries_with_neighbours(subregion: str, response_format: str):
@@ -32,7 +34,7 @@ def get_subregion_countries_with_neighbours(subregion: str, response_format: str
     :param response_format:
     :return:
     """
-    if response_format in ["csv", "json"]:
+    if subregion in sub_region_list:
         all_subregion_countries = requests.get(f"{BASE_URL}/subregion/{subregion}?fields="
                                                f"name,capital,region,subregion,population,area,borders")
         all_subregion_countries_json = all_subregion_countries.json()
@@ -41,17 +43,18 @@ def get_subregion_countries_with_neighbours(subregion: str, response_format: str
 
         return return_data_file(countries_with_neighbours_json, temp_format=response_format)
     else:
-        raise HTTPException(status_code=400, detail=f"Unsupported format {response_format}. Please use csv or json")
+        raise HTTPException(status_code=400, detail=f"Subregion {subregion} doesn't exist. "
+                                                    f"Please use existing subregion from list {sub_region_list}")
 
 
 def get_subregion_population(subregion: str, response_format: str):
     """
-    Returns data of country with neighbours
+    Returns data containing total population of subregion and countries names from it
     :param subregion:
     :param response_format:
     :return:
     """
-    if response_format in ["csv", "json"]:
+    if subregion in sub_region_list:
         all_subregion_countries = requests.get(f"{BASE_URL}/subregion/{subregion}?fields="
                                                f"name,population")
         all_subregion_countries_json = all_subregion_countries.json()
@@ -59,4 +62,5 @@ def get_subregion_population(subregion: str, response_format: str):
 
         return return_data_file(subregion_data_plus_total_population, temp_format=response_format)
     else:
-        raise HTTPException(status_code=400, detail=f"Unsupported format {response_format}. Please use csv or json")
+        raise HTTPException(status_code=400, detail=f"Subregion {subregion} doesn't exist. "
+                                                    f"Please use existing subregion from list {sub_region_list}")
