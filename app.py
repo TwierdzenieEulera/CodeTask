@@ -1,12 +1,32 @@
-from fastapi import FastAPI
+import time
 
+from urllib.request import Request
+from fastapi import FastAPI
+from fastapi.responses import JSONResponse
 from routers import countries
+from starlette.status import HTTP_408_REQUEST_TIMEOUT
+
+REQUEST_TIMEOUT_ERROR = 3  # Threshold
 
 app = FastAPI(
     version="0.2",
     title="CodeTask",
     description="data collector"
 )
+
+
+@app.middleware("http")
+async def timeout_middleware(request: Request, call_next):
+    try:
+        start_time = time.time()
+        return await asyncio.wait_for(call_next(request), timeout=REQUEST_TIMEOUT_ERROR)
+
+    except asyncio.TimeoutError:
+        process_time = time.time() - start_time
+        return JSONResponse({'detail': 'Request processing time excedeed limit',
+                             'processing_time': process_time},
+                            status_code=HTTP_408_REQUEST_TIMEOUT)
+
 
 app.include_router(countries.router)
 

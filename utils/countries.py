@@ -38,3 +38,11 @@ def return_data_file(json_response, temp_format):
         return FileResponse(temp.name + '.csv',
                             media_type="text/csv",
                             background=BackgroundTask(os.remove, temp.name + '.csv'))
+
+
+def add_total_subregion_population(json_response: list):
+    total_population = 0
+    for country in json_response:
+        total_population += country["population"]
+    json_response.insert(0, {"total_population": total_population})
+    return json_response
