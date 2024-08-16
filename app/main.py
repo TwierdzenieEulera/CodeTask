@@ -3,7 +3,7 @@ import time
 from urllib.request import Request
 from fastapi import FastAPI
 from fastapi.responses import JSONResponse
-from routers import countries
+from app.routers import countries
 from starlette.status import HTTP_408_REQUEST_TIMEOUT
 
 REQUEST_TIMEOUT_ERROR = 3  # Threshold

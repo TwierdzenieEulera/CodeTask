@@ -1,0 +1,2110 @@
+[
+  {
+    "name": {
+      "common": "Cyprus",
+      "official": "Republic of Cyprus",
+      "nativeName": {
+        "ell": {
+          "official": "Δημοκρατία της Κύπρος",
+          "common": "Κύπρος"
+        },
+        "tur": {
+          "official": "Kıbrıs Cumhuriyeti",
+          "common": "Kıbrıs"
+        }
+      }
+    },
+    "tld": [
+      ".cy"
+    ],
+    "cca2": "CY",
+    "ccn3": "196",
+    "cca3": "CYP",
+    "cioc": "CYP",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "57"
+      ]
+    },
+    "capital": [
+      "Nicosia"
+    ],
+    "altSpellings": [
+      "CY",
+      "Kýpros",
+      "Kıbrıs",
+      "Republic of Cyprus",
+      "Κυπριακή Δημοκρατία",
+      "Kıbrıs Cumhuriyeti"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "ell": "Greek",
+      "tur": "Turkish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية قبرص",
+        "common": "قبرص"
+      },
+      "bre": {
+        "official": "Republik Kiprenez",
+        "common": "Kiprenez"
+      },
+      "ces": {
+        "official": "Kyperská republika",
+        "common": "Kypr"
+      },
+      "cym": {
+        "official": "Gweriniaeth Cyprus",
+        "common": "Cyprus"
+      },
+      "deu": {
+        "official": "Republik Zypern",
+        "common": "Zypern"
+      },
+      "est": {
+        "official": "Küprose Vabariik",
+        "common": "Küpros"
+      },
+      "fin": {
+        "official": "Kyproksen tasavalta",
+        "common": "Kypros"
+      },
+      "fra": {
+        "official": "République de Chypre",
+        "common": "Chypre"
+      },
+      "hrv": {
+        "official": "Republika Cipar",
+        "common": "Cipar"
+      },
+      "hun": {
+        "official": "Ciprusi Köztársaság",
+        "common": "Ciprus"
+      },
+      "ita": {
+        "official": "Repubblica di Cipro",
+        "common": "Cipro"
+      },
+      "jpn": {
+        "official": "キプロス共和国",
+        "common": "キプロス"
+      },
+      "kor": {
+        "official": "키프로스 공화국",
+        "common": "키프로스"
+      },
+      "nld": {
+        "official": "Republiek Cyprus",
+        "common": "Cyprus"
+      },
+      "per": {
+        "official": "جمهوری قبرس",
+        "common": "قِبرِس"
+      },
+      "pol": {
+        "official": "Republika Cypryjska",
+        "common": "Cypr"
+      },
+      "por": {
+        "official": "República de Chipre",
+        "common": "Chipre"
+      },
+      "rus": {
+        "official": "Республика Кипр",
+        "common": "Кипр"
+      },
+      "slk": {
+        "official": "Cyperská republika",
+        "common": "Cyprus"
+      },
+      "spa": {
+        "official": "República de Chipre",
+        "common": "Chipre"
+      },
+      "srp": {
+        "official": "Кипарска Република",
+        "common": "Кипар"
+      },
+      "swe": {
+        "official": "Republiken Cypern",
+        "common": "Cypern"
+      },
+      "tur": {
+        "official": "Kıbrıs Cumhuriyeti",
+        "common": "Kıbrıs"
+      },
+      "urd": {
+        "official": "جمہوریہ قبرص",
+        "common": "قبرص"
+      },
+      "zho": {
+        "official": "塞浦路斯共和国",
+        "common": "塞浦路斯"
+      }
+    },
+    "latlng": [
+      35.0,
+      33.0
+    ],
+    "landlocked": false,
+    "area": 9251.0,
+    "demonyms": {
+      "eng": {
+        "f": "Cypriot",
+        "m": "Cypriot"
+      },
+      "fra": {
+        "f": "Chypriote",
+        "m": "Chypriote"
+      }
+    },
+    "flag": "\uD83C\uDDE8\uD83C\uDDFE",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307787"
+    },
+    "population": 1207361,
+    "gini": {
+      "2018": 32.7
+    },
+    "fifa": "CYP",
+    "car": {
+      "signs": [
+        "CY"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cy.png",
+      "svg": "https://flagcdn.com/cy.svg",
+      "alt": "The flag of Cyprus has a white field, at the center of which is a copper-colored silhouette of the Island of Cyprus above two green olive branches crossed at the stem."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/cy.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/cy.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        35.17,
+        33.37
+      ]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic",
+      "nativeName": {
+        "por": {
+          "official": "República português",
+          "common": "Portugal"
+        }
+      }
+    },
+    "tld": [
+      ".pt"
+    ],
+    "cca2": "PT",
+    "ccn3": "620",
+    "cca3": "PRT",
+    "cioc": "POR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "51"
+      ]
+    },
+    "capital": [
+      "Lisbon"
+    ],
+    "altSpellings": [
+      "PT",
+      "Portuguesa",
+      "Portuguese Republic",
+      "República Portuguesa"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية البرتغالية",
+        "common": "البرتغال"
+      },
+      "bre": {
+        "official": "Republik Portugalat",
+        "common": "Portugal"
+      },
+      "ces": {
+        "official": "Portugalská republika",
+        "common": "Portugalsko"
+      },
+      "cym": {
+        "official": "Portuguese Republic",
+        "common": "Portugal"
+      },
+      "deu": {
+        "official": "Portugiesische Republik",
+        "common": "Portugal"
+      },
+      "est": {
+        "official": "Portugali Vabariik",
+        "common": "Portugal"
+      },
+      "fin": {
+        "official": "Portugalin tasavalta",
+        "common": "Portugali"
+      },
+      "fra": {
+        "official": "République portugaise",
+        "common": "Portugal"
+      },
+      "hrv": {
+        "official": "Portugalska Republika",
+        "common": "Portugal"
+      },
+      "hun": {
+        "official": "Portugál Köztársaság",
+        "common": "Portugália"
+      },
+      "ita": {
+        "official": "Repubblica portoghese",
+        "common": "Portogallo"
+      },
+      "jpn": {
+        "official": "ポルトガル共和国",
+        "common": "ポルトガル"
+      },
+      "kor": {
+        "official": "포르투갈 공화국",
+        "common": "포르투갈"
+      },
+      "nld": {
+        "official": "Portugese Republiek",
+        "common": "Portugal"
+      },
+      "per": {
+        "official": "جمهوری پرتغال",
+        "common": "پرتغال"
+      },
+      "pol": {
+        "official": "Republika Portugalska",
+        "common": "Portugalia"
+      },
+      "por": {
+        "official": "República português",
+        "common": "Portugal"
+      },
+      "rus": {
+        "official": "Португальская Республика",
+        "common": "Португалия"
+      },
+      "slk": {
+        "official": "Portugalská republika",
+        "common": "Portugalsko"
+      },
+      "spa": {
+        "official": "República Portuguesa",
+        "common": "Portugal"
+      },
+      "srp": {
+        "official": "Португалска Република",
+        "common": "Португал"
+      },
+      "swe": {
+        "official": "Republiken Portugal",
+        "common": "Portugal"
+      },
+      "tur": {
+        "official": "Portekiz Cumhuriyeti",
+        "common": "Portekiz"
+      },
+      "urd": {
+        "official": "جمہوریہ پرتگال",
+        "common": "پرتگال"
+      },
+      "zho": {
+        "official": "葡萄牙共和国",
+        "common": "葡萄牙"
+      }
+    },
+    "latlng": [
+      39.5,
+      -8.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ESP"
+    ],
+    "area": 92090.0,
+    "demonyms": {
+      "eng": {
+        "f": "Portuguese",
+        "m": "Portuguese"
+      },
+      "fra": {
+        "f": "Portugaise",
+        "m": "Portugais"
+      }
+    },
+    "flag": "\uD83C\uDDF5\uD83C\uDDF9",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/295480"
+    },
+    "population": 10305564,
+    "gini": {
+      "2018": 33.5
+    },
+    "fifa": "POR",
+    "car": {
+      "signs": [
+        "P"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-01:00",
+      "UTC"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pt.png",
+      "svg": "https://flagcdn.com/pt.svg",
+      "alt": "The flag of Portugal is composed of two vertical bands of green and red in the ratio of 2:3, with the coat of arms of Portugal centered over the two-color boundary."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/pt.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/pt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        38.72,
+        -9.13
+      ]
+    },
+    "postalCode": {
+      "format": "####-###",
+      "regex": "^(\\d{7})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica italiana",
+          "common": "Italia"
+        }
+      }
+    },
+    "tld": [
+      ".it"
+    ],
+    "cca2": "IT",
+    "ccn3": "380",
+    "cca3": "ITA",
+    "cioc": "ITA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "9"
+      ]
+    },
+    "capital": [
+      "Rome"
+    ],
+    "altSpellings": [
+      "IT",
+      "Italian Republic",
+      "Repubblica italiana"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "ita": "Italian"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية الإيطالية",
+        "common": "إيطاليا"
+      },
+      "bre": {
+        "official": "Republik Italia",
+        "common": "Italia"
+      },
+      "ces": {
+        "official": "Italská republika",
+        "common": "Itálie"
+      },
+      "cym": {
+        "official": "Italian Republic",
+        "common": "Italy"
+      },
+      "deu": {
+        "official": "Italienische Republik",
+        "common": "Italien"
+      },
+      "est": {
+        "official": "Itaalia Vabariik",
+        "common": "Itaalia"
+      },
+      "fin": {
+        "official": "Italian tasavalta",
+        "common": "Italia"
+      },
+      "fra": {
+        "official": "République italienne",
+        "common": "Italie"
+      },
+      "hrv": {
+        "official": "talijanska Republika",
+        "common": "Italija"
+      },
+      "hun": {
+        "official": "Olasz Köztársaság",
+        "common": "Olaszország"
+      },
+      "ita": {
+        "official": "Repubblica italiana",
+        "common": "Italia"
+      },
+      "jpn": {
+        "official": "イタリア共和国",
+        "common": "イタリア"
+      },
+      "kor": {
+        "official": "이탈리아 공화국",
+        "common": "이탈리아"
+      },
+      "nld": {
+        "official": "Italiaanse Republiek",
+        "common": "Italië"
+      },
+      "per": {
+        "official": "جمهوری ایتالیا",
+        "common": "ایتالیا"
+      },
+      "pol": {
+        "official": "Republika Włoska",
+        "common": "Włochy"
+      },
+      "por": {
+        "official": "República Italiana",
+        "common": "Itália"
+      },
+      "rus": {
+        "official": "итальянская Республика",
+        "common": "Италия"
+      },
+      "slk": {
+        "official": "Talianska republika",
+        "common": "Taliansko"
+      },
+      "spa": {
+        "official": "República Italiana",
+        "common": "Italia"
+      },
+      "srp": {
+        "official": "Италијанска Република",
+        "common": "Италија"
+      },
+      "swe": {
+        "official": "Republiken Italien",
+        "common": "Italien"
+      },
+      "tur": {
+        "official": "İtalyan Cumhuriyeti",
+        "common": "İtalya"
+      },
+      "urd": {
+        "official": "جمہوریہ اطالیہ",
+        "common": "اطالیہ"
+      },
+      "zho": {
+        "official": "意大利共和国",
+        "common": "意大利"
+      }
+    },
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "landlocked": false,
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "area": 301336.0,
+    "demonyms": {
+      "eng": {
+        "f": "Italian",
+        "m": "Italian"
+      },
+      "fra": {
+        "f": "Italienne",
+        "m": "Italien"
+      }
+    },
+    "flag": "\uD83C\uDDEE\uD83C\uDDF9",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+    },
+    "population": 59554023,
+    "gini": {
+      "2017": 35.9
+    },
+    "fifa": "ITA",
+    "car": {
+      "signs": [
+        "I"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/it.png",
+      "svg": "https://flagcdn.com/it.svg",
+      "alt": "The flag of Italy is composed of three equal vertical bands of green, white and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/it.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        41.9,
+        12.48
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Gibraltar",
+      "official": "Gibraltar",
+      "nativeName": {
+        "eng": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        }
+      }
+    },
+    "tld": [
+      ".gi"
+    ],
+    "cca2": "GI",
+    "ccn3": "292",
+    "cca3": "GIB",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "GIP": {
+        "name": "Gibraltar pound",
+        "symbol": "£"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "50"
+      ]
+    },
+    "capital": [
+      "Gibraltar"
+    ],
+    "altSpellings": [
+      "GI"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "جبل طارق",
+        "common": "جبل طارق"
+      },
+      "bre": {
+        "official": "Jibraltar",
+        "common": "Jibraltar"
+      },
+      "ces": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "cym": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "deu": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "est": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "fin": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "fra": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "hrv": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "hun": {
+        "official": "Gibraltár",
+        "common": "Gibraltár"
+      },
+      "ita": {
+        "official": "Gibilterra",
+        "common": "Gibilterra"
+      },
+      "jpn": {
+        "official": "ジブラルタル",
+        "common": "ジブラルタル"
+      },
+      "kor": {
+        "official": "지브롤터",
+        "common": "지브롤터"
+      },
+      "nld": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "per": {
+        "official": "جبل طارق",
+        "common": "جبل طارق"
+      },
+      "pol": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "por": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "rus": {
+        "official": "Гибралтар",
+        "common": "Гибралтар"
+      },
+      "slk": {
+        "official": "Gibraltár",
+        "common": "Gibraltár"
+      },
+      "spa": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "srp": {
+        "official": "Гибралтар",
+        "common": "Гибралтар"
+      },
+      "swe": {
+        "official": "Gibraltar",
+        "common": "Gibraltar"
+      },
+      "tur": {
+        "official": "Cebelitarık",
+        "common": "Cebelitarık"
+      },
+      "urd": {
+        "official": "جبل الطارق",
+        "common": "جبل الطارق"
+      },
+      "zho": {
+        "official": "直布罗陀",
+        "common": "直布罗陀"
+      }
+    },
+    "latlng": [
+      36.13333333,
+      -5.35
+    ],
+    "landlocked": false,
+    "borders": [
+      "ESP"
+    ],
+    "area": 6.0,
+    "demonyms": {
+      "eng": {
+        "f": "Gibraltar",
+        "m": "Gibraltar"
+      },
+      "fra": {
+        "f": "Gibraltarienne",
+        "m": "Gibraltarien"
+      }
+    },
+    "flag": "\uD83C\uDDEC\uD83C\uDDEE",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
+    },
+    "population": 33691,
+    "fifa": "GIB",
+    "car": {
+      "signs": [
+        "GBZ"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gi.png",
+      "svg": "https://flagcdn.com/gi.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gi.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gi.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        36.13,
+        -5.35
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic",
+      "nativeName": {
+        "ell": {
+          "official": "Ελληνική Δημοκρατία",
+          "common": "Ελλάδα"
+        }
+      }
+    },
+    "tld": [
+      ".gr"
+    ],
+    "cca2": "GR",
+    "ccn3": "300",
+    "cca3": "GRC",
+    "cioc": "GRE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "0"
+      ]
+    },
+    "capital": [
+      "Athens"
+    ],
+    "altSpellings": [
+      "GR",
+      "Elláda",
+      "Hellenic Republic",
+      "Ελληνική Δημοκρατία"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "ell": "Greek"
+    },
+    "translations": {
+      "ara": {
+        "official": "الجمهورية الهيلينية",
+        "common": "اليونان"
+      },
+      "bre": {
+        "official": "Republik Hellenek",
+        "common": "Gres"
+      },
+      "ces": {
+        "official": "Řecká republika",
+        "common": "Řecko"
+      },
+      "cym": {
+        "official": "Hellenic Republic",
+        "common": "Greece"
+      },
+      "deu": {
+        "official": "Hellenische Republik",
+        "common": "Griechenland"
+      },
+      "est": {
+        "official": "Kreeka Vabariik",
+        "common": "Kreeka"
+      },
+      "fin": {
+        "official": "Helleenien tasavalta",
+        "common": "Kreikka"
+      },
+      "fra": {
+        "official": "République hellénique",
+        "common": "Grèce"
+      },
+      "hrv": {
+        "official": "Helenska Republika",
+        "common": "Grčka"
+      },
+      "hun": {
+        "official": "Görög Köztársaság",
+        "common": "Görögország"
+      },
+      "ita": {
+        "official": "Repubblica ellenica",
+        "common": "Grecia"
+      },
+      "jpn": {
+        "official": "ギリシャ共和国",
+        "common": "ギリシャ"
+      },
+      "kor": {
+        "official": "그리스 공화국",
+        "common": "그리스"
+      },
+      "nld": {
+        "official": "Helleense Republiek",
+        "common": "Griekenland"
+      },
+      "per": {
+        "official": "جمهوری یونان",
+        "common": "یونان"
+      },
+      "pol": {
+        "official": "Republika Grecka",
+        "common": "Grecja"
+      },
+      "por": {
+        "official": "República Helénica",
+        "common": "Grécia"
+      },
+      "rus": {
+        "official": "Греческая Республика",
+        "common": "Греция"
+      },
+      "slk": {
+        "official": "Grécka republika",
+        "common": "Greécko"
+      },
+      "spa": {
+        "official": "República Helénica",
+        "common": "Grecia"
+      },
+      "srp": {
+        "official": "Хеленска Република",
+        "common": "Грчка"
+      },
+      "swe": {
+        "official": "Republiken Grekland",
+        "common": "Grekland"
+      },
+      "tur": {
+        "official": "Helen Cumhuriyeti",
+        "common": "Yunanistan"
+      },
+      "urd": {
+        "official": "جمہوریہ ہیلینیہ",
+        "common": "یونان"
+      },
+      "zho": {
+        "official": "希腊共和国",
+        "common": "希腊"
+      }
+    },
+    "latlng": [
+      39.0,
+      22.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "area": 131990.0,
+    "demonyms": {
+      "eng": {
+        "f": "Greek",
+        "m": "Greek"
+      },
+      "fra": {
+        "f": "Grecque",
+        "m": "Grec"
+      }
+    },
+    "flag": "\uD83C\uDDEC\uD83C\uDDF7",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
+    },
+    "population": 10715549,
+    "gini": {
+      "2018": 32.9
+    },
+    "fifa": "GRE",
+    "car": {
+      "signs": [
+        "GR"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gr.png",
+      "svg": "https://flagcdn.com/gr.svg",
+      "alt": "The flag of Greece is composed of nine equal horizontal bands of blue alternating with white. A blue square bearing a white cross is superimposed in the canton."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/gr.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/gr.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        37.98,
+        23.73
+      ]
+    },
+    "postalCode": {
+      "format": "### ##",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain",
+      "nativeName": {
+        "spa": {
+          "official": "Reino de España",
+          "common": "España"
+        }
+      }
+    },
+    "tld": [
+      ".es"
+    ],
+    "cca2": "ES",
+    "ccn3": "724",
+    "cca3": "ESP",
+    "cioc": "ESP",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "4"
+      ]
+    },
+    "capital": [
+      "Madrid"
+    ],
+    "altSpellings": [
+      "ES",
+      "Kingdom of Spain",
+      "Reino de España"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "spa": "Spanish",
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glc": "Galician"
+    },
+    "translations": {
+      "ara": {
+        "official": "مملكة إسبانيا",
+        "common": "إسبانيا"
+      },
+      "bre": {
+        "official": "Rouantelezh Spagn",
+        "common": "Spagn"
+      },
+      "ces": {
+        "official": "Španělské království",
+        "common": "Španělsko"
+      },
+      "cym": {
+        "official": "Kingdom of Spain",
+        "common": "Spain"
+      },
+      "deu": {
+        "official": "Königreich Spanien",
+        "common": "Spanien"
+      },
+      "est": {
+        "official": "Hispaania Kuningriik",
+        "common": "Hispaania"
+      },
+      "fin": {
+        "official": "Espanjan kuningaskunta",
+        "common": "Espanja"
+      },
+      "fra": {
+        "official": "Royaume d'Espagne",
+        "common": "Espagne"
+      },
+      "hrv": {
+        "official": "Kraljevina Španjolska",
+        "common": "Španjolska"
+      },
+      "hun": {
+        "official": "Spanyol Királyság",
+        "common": "Spanyolország"
+      },
+      "ita": {
+        "official": "Regno di Spagna",
+        "common": "Spagna"
+      },
+      "jpn": {
+        "official": "スペイン王国",
+        "common": "スペイン"
+      },
+      "kor": {
+        "official": "에스파냐 왕국",
+        "common": "스페인"
+      },
+      "nld": {
+        "official": "Koninkrijk Spanje",
+        "common": "Spanje"
+      },
+      "per": {
+        "official": "پادشاهی اسپانیا",
+        "common": "اسپانیا"
+      },
+      "pol": {
+        "official": "Królestwo Hiszpanii ",
+        "common": "Hiszpania"
+      },
+      "por": {
+        "official": "Reino de Espanha",
+        "common": "Espanha"
+      },
+      "rus": {
+        "official": "Королевство Испания",
+        "common": "Испания"
+      },
+      "slk": {
+        "official": "Španielske kráľovstvo",
+        "common": "Španielsko"
+      },
+      "spa": {
+        "official": "Reino de España",
+        "common": "España"
+      },
+      "srp": {
+        "official": "Краљевина Шпанија",
+        "common": "Шпанија"
+      },
+      "swe": {
+        "official": "Konungariket Spanien",
+        "common": "Spanien"
+      },
+      "tur": {
+        "official": "İspanya Krallığı",
+        "common": "İspanya"
+      },
+      "urd": {
+        "official": "مملکتِ ہسپانیہ",
+        "common": "ہسپانیہ"
+      },
+      "zho": {
+        "official": "西班牙王国",
+        "common": "西班牙"
+      }
+    },
+    "latlng": [
+      40.0,
+      -4.0
+    ],
+    "landlocked": false,
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "area": 505992.0,
+    "demonyms": {
+      "eng": {
+        "f": "Spanish",
+        "m": "Spanish"
+      },
+      "fra": {
+        "f": "Espagnole",
+        "m": "Espagnol"
+      }
+    },
+    "flag": "\uD83C\uDDEA\uD83C\uDDF8",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
+    },
+    "population": 47351567,
+    "gini": {
+      "2018": 34.7
+    },
+    "fifa": "ESP",
+    "car": {
+      "signs": [
+        "E"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC",
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/es.png",
+      "svg": "https://flagcdn.com/es.svg",
+      "alt": "The flag of Spain is composed of three horizontal bands of red, yellow and red, with the yellow band twice the height of the red bands. In the yellow band is the national coat of arms offset slightly towards the hoist side of center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/es.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/es.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        40.4,
+        -3.68
+      ]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Vatican City",
+      "official": "Vatican City State",
+      "nativeName": {
+        "ita": {
+          "official": "Stato della Città del Vaticano",
+          "common": "Vaticano"
+        },
+        "lat": {
+          "official": "Status Civitatis Vaticanæ",
+          "common": "Vaticanæ"
+        }
+      }
+    },
+    "tld": [
+      ".va"
+    ],
+    "cca2": "VA",
+    "ccn3": "336",
+    "cca3": "VAT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "906698",
+        "79"
+      ]
+    },
+    "capital": [
+      "Vatican City"
+    ],
+    "altSpellings": [
+      "VA",
+      "Holy See (Vatican City State)",
+      "Vatican City State",
+      "Stato della Città del Vaticano"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "ita": "Italian",
+      "lat": "Latin"
+    },
+    "translations": {
+      "ara": {
+        "official": "دولة مدينة الفاتيكان",
+        "common": "مدينة الفاتيكان"
+      },
+      "bre": {
+        "official": "Riez Keoded ar Vatikan",
+        "common": "Vatikan"
+      },
+      "ces": {
+        "official": "Městský stát Vatikán",
+        "common": "Vatikán"
+      },
+      "cym": {
+        "official": "Vatican City State",
+        "common": "Vatican City"
+      },
+      "deu": {
+        "official": "Staat Vatikanstadt",
+        "common": "Vatikanstadt"
+      },
+      "est": {
+        "official": "Vatikani Linnriik",
+        "common": "Vatikan"
+      },
+      "fin": {
+        "official": "Vatikaanin kaupunkivaltio",
+        "common": "Vatikaani"
+      },
+      "fra": {
+        "official": "Cité du Vatican",
+        "common": "Cité du Vatican"
+      },
+      "hrv": {
+        "official": "Vatikan",
+        "common": "Vatikan"
+      },
+      "hun": {
+        "official": "Vatikán Állam",
+        "common": "Vatikán"
+      },
+      "ita": {
+        "official": "Città del Vaticano",
+        "common": "Città del Vaticano"
+      },
+      "jpn": {
+        "official": "バチカン市国の状態",
+        "common": "バチカン市国"
+      },
+      "kor": {
+        "official": "바티칸 시국",
+        "common": "바티칸"
+      },
+      "nld": {
+        "official": "Vaticaanstad",
+        "common": "Vaticaanstad"
+      },
+      "per": {
+        "official": "دولت‌شهر واتیکان",
+        "common": "واتیکان"
+      },
+      "pol": {
+        "official": "Państwo Watykańskie",
+        "common": "Watykan"
+      },
+      "por": {
+        "official": "Cidade do Vaticano",
+        "common": "Cidade do Vaticano"
+      },
+      "rus": {
+        "official": "Город-государство Ватикан",
+        "common": "Ватикан"
+      },
+      "slk": {
+        "official": "Svätá stolica (Vatikánsky mestský štát",
+        "common": "Vatikán"
+      },
+      "spa": {
+        "official": "Ciudad del Vaticano",
+        "common": "Ciudad del Vaticano"
+      },
+      "srp": {
+        "official": "Град Ватикан",
+        "common": "Ватикан"
+      },
+      "swe": {
+        "official": "Vatikanstaten",
+        "common": "Vatikanstaten"
+      },
+      "tur": {
+        "official": "Vatikan Şehir Devleti",
+        "common": "Vatikan"
+      },
+      "urd": {
+        "official": "ویٹیکن سٹی",
+        "common": "ویٹیکن سٹی"
+      },
+      "zho": {
+        "official": "梵蒂冈城国",
+        "common": "梵蒂冈"
+      }
+    },
+    "latlng": [
+      41.9,
+      12.45
+    ],
+    "landlocked": true,
+    "borders": [
+      "ITA"
+    ],
+    "area": 0.44,
+    "demonyms": {
+      "eng": {
+        "f": "Vatican",
+        "m": "Vatican"
+      },
+      "fra": {
+        "f": "Vaticane",
+        "m": "Vatican"
+      }
+    },
+    "flag": "\uD83C\uDDFB\uD83C\uDDE6",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/36989"
+    },
+    "population": 451,
+    "car": {
+      "signs": [
+        "V"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/va.png",
+      "svg": "https://flagcdn.com/va.svg",
+      "alt": "The flag of Vatican City is square shaped. It is composed of two equal vertical bands of yellow and white, with national coat of arms centered in the white band. The national coat of arms comprises the Papal Tiara superimposed on two crossed keys."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/va.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/va.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        41.9,
+        12.45
+      ]
+    }
+  },
+  {
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra",
+      "nativeName": {
+        "cat": {
+          "official": "Principat d'Andorra",
+          "common": "Andorra"
+        }
+      }
+    },
+    "tld": [
+      ".ad"
+    ],
+    "cca2": "AD",
+    "ccn3": "020",
+    "cca3": "AND",
+    "cioc": "AND",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "76"
+      ]
+    },
+    "capital": [
+      "Andorra la Vella"
+    ],
+    "altSpellings": [
+      "AD",
+      "Principality of Andorra",
+      "Principat d'Andorra"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "cat": "Catalan"
+    },
+    "translations": {
+      "ara": {
+        "official": "إمارة أندورا",
+        "common": "أندورا"
+      },
+      "bre": {
+        "official": "Priñselezh Andorra",
+        "common": "Andorra"
+      },
+      "ces": {
+        "official": "Andorrské knížectví",
+        "common": "Andorra"
+      },
+      "cym": {
+        "official": "Tywysogaeth Andorra",
+        "common": "Andorra"
+      },
+      "deu": {
+        "official": "Fürstentum Andorra",
+        "common": "Andorra"
+      },
+      "est": {
+        "official": "Andorra Vürstiriik",
+        "common": "Andorra"
+      },
+      "fin": {
+        "official": "Andorran ruhtinaskunta",
+        "common": "Andorra"
+      },
+      "fra": {
+        "official": "Principauté d'Andorre",
+        "common": "Andorre"
+      },
+      "hrv": {
+        "official": "Kneževina Andora",
+        "common": "Andora"
+      },
+      "hun": {
+        "official": "Andorra",
+        "common": "Andorra"
+      },
+      "ita": {
+        "official": "Principato di Andorra",
+        "common": "Andorra"
+      },
+      "jpn": {
+        "official": "アンドラ公国",
+        "common": "アンドラ"
+      },
+      "kor": {
+        "official": "안도라 공국",
+        "common": "안도라"
+      },
+      "nld": {
+        "official": "Prinsdom Andorra",
+        "common": "Andorra"
+      },
+      "per": {
+        "official": "شاهزاده‌نشین آندورا",
+        "common": "آندورا"
+      },
+      "pol": {
+        "official": "Księstwo Andory",
+        "common": "Andora"
+      },
+      "por": {
+        "official": "Principado de Andorra",
+        "common": "Andorra"
+      },
+      "rus": {
+        "official": "Княжество Андорра",
+        "common": "Андорра"
+      },
+      "slk": {
+        "official": "Andorrské kniežatstvo",
+        "common": "Andorra"
+      },
+      "spa": {
+        "official": "Principado de Andorra",
+        "common": "Andorra"
+      },
+      "srp": {
+        "official": "Кнежевина Андора",
+        "common": "Андора"
+      },
+      "swe": {
+        "official": "Furstendömet Andorra",
+        "common": "Andorra"
+      },
+      "tur": {
+        "official": "Andorra Prensliği",
+        "common": "Andorra"
+      },
+      "urd": {
+        "official": "اماراتِ انڈورا",
+        "common": "انڈورا"
+      },
+      "zho": {
+        "official": "安道尔公国",
+        "common": "安道尔"
+      }
+    },
+    "latlng": [
+      42.5,
+      1.5
+    ],
+    "landlocked": true,
+    "borders": [
+      "FRA",
+      "ESP"
+    ],
+    "area": 468.0,
+    "demonyms": {
+      "eng": {
+        "f": "Andorran",
+        "m": "Andorran"
+      },
+      "fra": {
+        "f": "Andorrane",
+        "m": "Andorran"
+      }
+    },
+    "flag": "\uD83C\uDDE6\uD83C\uDDE9",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/9407"
+    },
+    "population": 77265,
+    "fifa": "AND",
+    "car": {
+      "signs": [
+        "AND"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ad.png",
+      "svg": "https://flagcdn.com/ad.svg",
+      "alt": "The flag of Andorra features three equal vertical bands of blue, yellow and red, with the coat of arms of Andorra centered in the yellow band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ad.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ad.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        42.5,
+        1.52
+      ]
+    },
+    "postalCode": {
+      "format": "AD###",
+      "regex": "^(?:AD)*(\\d{3})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Malta",
+      "official": "Republic of Malta",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Malta",
+          "common": "Malta"
+        },
+        "mlt": {
+          "official": "Repubblika ta ' Malta",
+          "common": "Malta"
+        }
+      }
+    },
+    "tld": [
+      ".mt"
+    ],
+    "cca2": "MT",
+    "ccn3": "470",
+    "cca3": "MLT",
+    "cioc": "MLT",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "56"
+      ]
+    },
+    "capital": [
+      "Valletta"
+    ],
+    "altSpellings": [
+      "MT",
+      "Republic of Malta",
+      "Repubblika ta' Malta"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "eng": "English",
+      "mlt": "Maltese"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية مالطا",
+        "common": "مالطا"
+      },
+      "bre": {
+        "official": "Republik Malta",
+        "common": "Malta"
+      },
+      "ces": {
+        "official": "Maltská republika",
+        "common": "Malta"
+      },
+      "cym": {
+        "official": "Republic of Malta",
+        "common": "Malta"
+      },
+      "deu": {
+        "official": "Republik Malta",
+        "common": "Malta"
+      },
+      "est": {
+        "official": "Malta Vabariik",
+        "common": "Malta"
+      },
+      "fin": {
+        "official": "Maltan tasavalta",
+        "common": "Malta"
+      },
+      "fra": {
+        "official": "République de Malte",
+        "common": "Malte"
+      },
+      "hrv": {
+        "official": "Republika Malta",
+        "common": "Malta"
+      },
+      "hun": {
+        "official": "Máltai Köztársaság",
+        "common": "Málta"
+      },
+      "ita": {
+        "official": "Repubblica di Malta",
+        "common": "Malta"
+      },
+      "jpn": {
+        "official": "マルタ共和国",
+        "common": "マルタ"
+      },
+      "kor": {
+        "official": "몰타 공화국",
+        "common": "몰타"
+      },
+      "nld": {
+        "official": "Republiek Malta",
+        "common": "Malta"
+      },
+      "per": {
+        "official": "جمهوری مالت",
+        "common": "مالت"
+      },
+      "pol": {
+        "official": "Republika Malty",
+        "common": "Malta"
+      },
+      "por": {
+        "official": "República de Malta",
+        "common": "Malta"
+      },
+      "rus": {
+        "official": "Республика Мальта",
+        "common": "Мальта"
+      },
+      "slk": {
+        "official": "Maltská republika",
+        "common": "Malta"
+      },
+      "spa": {
+        "official": "República de Malta",
+        "common": "Malta"
+      },
+      "srp": {
+        "official": " Република Малта",
+        "common": "Малта"
+      },
+      "swe": {
+        "official": "Republiken Malta",
+        "common": "Malta"
+      },
+      "tur": {
+        "official": "Malta Cumhuriyeti",
+        "common": "Malta"
+      },
+      "urd": {
+        "official": "جمہوریہ مالٹا",
+        "common": "مالٹا"
+      },
+      "zho": {
+        "official": "马耳他共和国",
+        "common": "马耳他"
+      }
+    },
+    "latlng": [
+      35.9375,
+      14.3754
+    ],
+    "landlocked": false,
+    "area": 316.0,
+    "demonyms": {
+      "eng": {
+        "f": "Maltese",
+        "m": "Maltese"
+      },
+      "fra": {
+        "f": "Maltaise",
+        "m": "Maltais"
+      }
+    },
+    "flag": "\uD83C\uDDF2\uD83C\uDDF9",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/365307"
+    },
+    "population": 525285,
+    "gini": {
+      "2018": 28.7
+    },
+    "fifa": "MLT",
+    "car": {
+      "signs": [
+        "M"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mt.png",
+      "svg": "https://flagcdn.com/mt.svg",
+      "alt": "The flag of Malta is composed of two equal vertical bands of white and red. A representation of the George cross edged in red is situated on the upper hoist-side corner of the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/mt.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/mt.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        35.88,
+        14.5
+      ]
+    },
+    "postalCode": {
+      "format": "@@@ ###|@@@ ##",
+      "regex": "^([A-Z]{3}\\d{2}\\d?)$"
+    }
+  },
+  {
+    "name": {
+      "common": "San Marino",
+      "official": "Republic of San Marino",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica di San Marino",
+          "common": "San Marino"
+        }
+      }
+    },
+    "tld": [
+      ".sm"
+    ],
+    "cca2": "SM",
+    "ccn3": "674",
+    "cca3": "SMR",
+    "cioc": "SMR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "idd": {
+      "root": "+3",
+      "suffixes": [
+        "78"
+      ]
+    },
+    "capital": [
+      "City of San Marino"
+    ],
+    "altSpellings": [
+      "SM",
+      "Republic of San Marino",
+      "Repubblica di San Marino"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+      "ita": "Italian"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية سان مارينو",
+        "common": "سان مارينو"
+      },
+      "bre": {
+        "official": "Republik San Marino",
+        "common": "San Marino"
+      },
+      "ces": {
+        "official": "Republika San Marino",
+        "common": "San Marino"
+      },
+      "cym": {
+        "official": "Republic of San Marino",
+        "common": "San Marino"
+      },
+      "deu": {
+        "official": "Republik San Marino",
+        "common": "San Marino"
+      },
+      "est": {
+        "official": "San Marino Vabariik",
+        "common": "San Marino"
+      },
+      "fin": {
+        "official": "San Marinon seesteinen tasavalta",
+        "common": "San Marino"
+      },
+      "fra": {
+        "official": "République de Saint-Marin",
+        "common": "Saint-Marin"
+      },
+      "hrv": {
+        "official": "Većina Serene Republika San Marino",
+        "common": "San Marino"
+      },
+      "hun": {
+        "official": "San Marino Köztársaság",
+        "common": "San Marino"
+      },
+      "ita": {
+        "official": "Serenissima Repubblica di San Marino",
+        "common": "San Marino"
+      },
+      "jpn": {
+        "official": "サンマリノのほとんどセリーヌ共和国",
+        "common": "サンマリノ"
+      },
+      "kor": {
+        "official": "산마리노 공화국",
+        "common": "산마리노"
+      },
+      "nld": {
+        "official": "Meest Serene Republiek San Marino",
+        "common": "San Marino"
+      },
+      "per": {
+        "official": "جمهوری سان مارینو",
+        "common": "سان مارینو"
+      },
+      "pol": {
+        "official": "Republika San Marino",
+        "common": "San Marino"
+      },
+      "por": {
+        "official": "Sereníssima República de San Marino",
+        "common": "San Marino"
+      },
+      "rus": {
+        "official": "Большинство Serene Республика Сан-Марино",
+        "common": "Сан-Марино"
+      },
+      "slk": {
+        "official": "Sanmarínska republika",
+        "common": "San Maríno"
+      },
+      "spa": {
+        "official": "Serenísima República de San Marino",
+        "common": "San Marino"
+      },
+      "srp": {
+        "official": "Најузвишенија Република Сан Марино",
+        "common": "Сан Марино"
+      },
+      "swe": {
+        "official": "Republiken San Marino",
+        "common": "San Marino"
+      },
+      "tur": {
+        "official": "San Marino Cumhuriyeti",
+        "common": "San Marino"
+      },
+      "urd": {
+        "official": "جمہوریہ سان مارینو",
+        "common": "سان مارینو"
+      },
+      "zho": {
+        "official": "圣马力诺共和国",
+        "common": "圣马力诺"
+      }
+    },
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ],
+    "landlocked": true,
+    "borders": [
+      "ITA"
+    ],
+    "area": 61.0,
+    "demonyms": {
+      "eng": {
+        "f": "Sammarinese",
+        "m": "Sammarinese"
+      },
+      "fra": {
+        "f": "Saint-Marinaise",
+        "m": "Saint-Marinais"
+      }
+    },
+    "flag": "\uD83C\uDDF8\uD83C\uDDF2",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/54624"
+    },
+    "population": 33938,
+    "fifa": "SMR",
+    "car": {
+      "signs": [
+        "RSM"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sm.png",
+      "svg": "https://flagcdn.com/sm.svg",
+      "alt": "The flag of San Marino is composed of two equal horizontal bands of white and light blue, with the national coat of arms superimposed in the center."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/sm.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/sm.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [
+        43.94,
+        12.45
+      ]
+    },
+    "postalCode": {
+      "format": "4789#",
+      "regex": "^(4789\\d)$"
+    }
+  }
+]
