@@ -1,4 +1,5 @@
 import time
+import asyncio
 
 from urllib.request import Request
 from fastapi import FastAPI
@@ -9,7 +10,7 @@ from starlette.status import HTTP_408_REQUEST_TIMEOUT
 REQUEST_TIMEOUT_ERROR = 3  # Threshold
 
 app = FastAPI(
-    version="0.3",
+    version="1.0",
     title="CodeTask",
     description="data collector"
 )
@@ -30,14 +31,15 @@ async def timeout_middleware(request: Request, call_next):
 
 app.include_router(countries.router)
 
-if __name__ == "__main__":
-    import asyncio
-    import uvicorn
-
-    HOST = "127.0.0.1"
-    PORT = 8000
-
-    loop = asyncio.new_event_loop()
-    asyncio.set_event_loop(loop)
-
-    loop.run_until_complete(uvicorn.run(app, host=HOST, port=PORT))
+# code for testing purposes
+# if __name__ == "__main__":
+#     import asyncio
+#     import uvicorn
+#
+#     HOST = "127.0.0.1"
+#     PORT = 8000
+#
+#     loop = asyncio.new_event_loop()
+#     asyncio.set_event_loop(loop)
+#
+#     loop.run_until_complete(uvicorn.run(app, host=HOST, port=PORT))

@@ -1,5 +1,26 @@
 # CodeTask
 
+This is a simple FastAPI project to consume the [RESTCountries](https://restcountries.com/) API.
+
+# Installation
+
+run command 
+
+    pip install --no-cache-dir --upgrade -r requirements.txt
+
+Then to run the project you can run
+
+    uvicorn app.main:app --host 127.0.0.1 --port 80
+
+and open address [CT_API](http://127.0.0.1/docs) in your browser.
+
+You can also use docker image. Just install docker and use commands:
+
+    docker build -t fastapi-docker-image . 
+    docker run -dp 8080:80 fastapi-docker-image
+
+# Description
+
 Web API consumes data from a public API and exposes endpoints with the following data:
 
     1. List the 10 biggest countries of a determined region of the world (Europe, Asia, Oceania, Americas, etc).
