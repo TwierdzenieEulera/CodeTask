@@ -10,11 +10,23 @@ from app.utils.constans import Formats
 
 
 def get_biggest_countries_in_region(region: list, how_many_countries: int) -> list:
+    """
+    Sorts countries from the smallest to the biggest
+    :param region: region of the world
+    :param how_many_countries:
+    :return:
+    """
     sorted_countries = sorted(region, key=lambda d: d['area'])[-how_many_countries-1:-1]
     return sorted_countries
 
 
 def get_countries_with_neighbours(subregion: list, at_least_neighbours: int):
+    """
+    Returns json list containing countries with given number of neighbours or more
+    :param subregion:
+    :param at_least_neighbours:
+    :return:
+    """
     countries_with_neighbours = []
     for country in subregion:
         if "borders" not in country:
@@ -28,6 +40,12 @@ def get_countries_with_neighbours(subregion: list, at_least_neighbours: int):
 
 
 def return_data_file(json_response, temp_format):
+    """
+    Returns data file in given format
+    :param json_response:
+    :param temp_format:
+    :return:
+    """
     if temp_format == Formats.JSON:
         fd, path = tempfile.mkstemp(suffix=f'.{temp_format}')
         json_object = json.dumps(json_response)
@@ -44,6 +62,11 @@ def return_data_file(json_response, temp_format):
 
 
 def add_total_subregion_population(json_response: list):
+    """
+    Summarises populations of given countries
+    :param json_response:
+    :return:
+    """
     total_population = 0
     for country in json_response:
         total_population += country["population"]

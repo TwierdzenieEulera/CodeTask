@@ -7,12 +7,17 @@ from fastapi import HTTPException
 from app.utils.constans import region_list, Formats
 from app.utils.countries import add_total_subregion_population, get_biggest_countries_in_region
 from app.services.countries_service import (get_region_biggest_countries, get_countries_with_neighbours,
-                                            get_subregion_countries_with_neighbours, get_subregion_population, )
+                                            get_subregion_countries_with_neighbours, get_subregion_population)
 
 BASE_URL = "https://restcountries.com/#rest-countries"
 
 
 class TestApi(unittest.TestCase):
+
+    @staticmethod
+    def get_file_path(relative_path):
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        return os.path.join(base_dir, relative_path)
 
     def test_get_endpoint(self):
         response = requests.get(BASE_URL)
@@ -91,11 +96,6 @@ class TestApi(unittest.TestCase):
         ]
         result = add_total_subregion_population(json_response)
         self.assertEqual(result, expected_output)
-
-    @staticmethod
-    def get_file_path(relative_path):
-        base_dir = os.path.dirname(os.path.abspath(__file__))
-        return os.path.join(base_dir, relative_path)
 
 
 if __name__ == '__main__':

@@ -7,10 +7,11 @@ from fastapi import HTTPException
 BASE_URL = "https://restcountries.com/v3.1"
 
 
-def get_region_biggest_countries(region: str, response_format: Formats):
+def get_region_biggest_countries(region: str, how_many_countries: int, response_format: Formats):
     """
     Returns data of biggest countries in given region
     :param region:
+    :param how_many_countries:
     :param response_format:
     :return:
     """
@@ -19,7 +20,7 @@ def get_region_biggest_countries(region: str, response_format: Formats):
                                             f"name,capital,region,subregion,population,area,borders")
         all_region_countries_json = all_region_countries.json()
         biggest_countries_json = get_biggest_countries_in_region(region=all_region_countries_json,
-                                                                 how_many_countries=10)
+                                                                 how_many_countries=how_many_countries)
         return return_data_file(biggest_countries_json, temp_format=response_format)
     else:
         raise HTTPException(status_code=400, detail=f"Region {region} doesn't exist. "
