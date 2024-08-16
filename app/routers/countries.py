@@ -7,16 +7,19 @@ router = APIRouter()
 
 @router.get("/region/{region}", tags=["countries"])
 async def get_region_biggest_countries(region: str = Path(example="Europe"),
+                                       how_many_countries: int = Path(example=10),
                                        response_format: Formats = Query(example=Formats.JSON)):
     """
     Gets a data containing Country Name, Capital, Region, Sub Region, Population, Area, Borders
     ```
     :param str region: region of the world (Europe, Asia, Oceania, Americas, etc.)
+    :param int how_many_countries: determine maximum number of countries that will be sorted
     :param str response_format: choose JSON or CSV as output formats
     :return: json or csv, depending on chosen response format
     ```
     """
     return countries_service.get_region_biggest_countries(region=region,
+                                                          how_many_countries=how_many_countries,
                                                           response_format=response_format)
 
 
